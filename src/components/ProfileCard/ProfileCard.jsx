@@ -1,7 +1,7 @@
 import "./ProfileCard.scss";
 import React from "react";
 import Cover from "../../img/cover.jpg";
-import Profile from "../../img/profileImg.jpg";
+import Profile from "../../img/profileImg1.jpg";
 const ProfileCard = () => {
   const ProfilePage = true;
 
@@ -13,7 +13,7 @@ const ProfileCard = () => {
       </div>
       <div className="ProfileName">
         <span className="user-name">Spacety</span>
-        <span className="tag-name">Senior UI/UX Designer</span>
+        <span className="tag-name">Developer software</span>
       </div>
       <div className="followStatus">
         <hr />

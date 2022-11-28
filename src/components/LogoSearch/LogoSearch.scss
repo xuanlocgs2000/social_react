@@ -1,6 +1,8 @@
 .LogoSearch {
-    display: flex;
-    gap    : 0.75rem;
+    display   : flex;
+    gap       : 0.75rem;
+    // width  : 2rem;
+    // height : 3rem;
 }
 
 .Search {
@@ -20,7 +22,7 @@
     display        : flex;
     align-items    : center;
     justify-content: center;
-    background     : linear-gradient(106.23deg, #f99827, #f95f35 100%);
+    background     : linear-gradient(106.23deg, #64aceb 0%, #757a9b 100%);
     border-radius  : 5px;
     padding        : 4px;
     color          : white;

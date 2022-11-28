@@ -5,21 +5,21 @@ import postPic3 from "../img/postpic3.JPG";
 export const PostsData = [
   {
     img: postPic1,
-    name: "huong linh",
+    name: "tran linh",
     desc: "Xin chao moi nguoi",
     likes: 218,
     liked: true,
   },
   {
     img: postPic2,
-    name: "huong linh",
+    name: "nguyen linh",
     desc: "Xin chao moi nguoi",
     likes: 218,
     liked: true,
   },
   {
     img: postPic3,
-    name: "huong linh",
+    name: "nguyen loc",
     desc: "Xin chao moi nguoi",
     likes: 218,
     liked: false,

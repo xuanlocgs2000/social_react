@@ -4,7 +4,7 @@ import React from "react";
 
 import Comment from "../../img/comment.png";
 import Share from "../../img/share.png";
-import Heart from "../../img/like.png";
+import Heart from "../../img/like3.png";
 import NotLike from "../../img/notlike.png";
 const Post = ({ data }) => {
   return (

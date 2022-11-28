@@ -11,7 +11,7 @@ const Auth = () => {
           <h6>Social app fan of world cup 2022 </h6>
         </div>
       </div>
-      <Login />
+      <SignUp />
     </div>
   );
 };
@@ -96,7 +96,7 @@ function SignUp() {
           </span>
         </div>
         <button className="button infoButton" type="submit">
-          Signup
+          Sign up
         </button>
       </form>
     </div>

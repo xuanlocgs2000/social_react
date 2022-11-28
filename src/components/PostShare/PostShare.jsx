@@ -1,7 +1,7 @@
 import "./PostShare.scss";
 
 import React, { useState, useRef } from "react";
-import ProfileImage from "../../img/profileImg.jpg";
+import ProfileImage from "../../img/profileImg1.jpg";
 import {
   UilScenery,
   UilPlayCircle,
