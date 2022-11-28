@@ -2,8 +2,8 @@
 
 ## Công nghệ sử dụng:
 
-FE: REACTJS
-BE: Node.js
+FE: REACTJS//
+BE: Node.js//
 DB: MongooseDB
 
 Login:
