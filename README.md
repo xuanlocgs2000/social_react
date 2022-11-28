@@ -8,7 +8,8 @@ BE: Node.js
 DB: MongooseDB
 
 Trang chủ:
-![CHEESE!](img/cover.jpg)
+
+<!-- ![CHEESE!](img/cover.jpg) -->
 
 ## `npm start`
 
