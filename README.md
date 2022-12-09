@@ -2,9 +2,10 @@
 
 ## Công nghệ sử dụng:
 
-FE: REACTJS//
-BE: Node.js//
-DB: MongooseDB
+FE: REACTJS<br>
+BE: Node.js<br>
+DB: MongooseDB<br>
+API: https://github.com/xuanlocgs2000/Api_social_app.git
 
 Login:
 ![loginscreen](https://user-images.githubusercontent.com/60818381/204227966-8e7b82fe-022d-48d6-9c02-0d4c36046257.png)
